@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Shruti Chandrasekar!
 
-<!--
-**shrutic794/shrutic794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate engineering student exploring the frontiers of **AI**, **computer vision**, and **edge intelligence** with a strong drive to solve real-world problems through interdisciplinary research.
 
-Here are some ideas to get you started:
+I enjoy building systems that combine empathy with innovation — whether it's for **healthcare**, **education**, or **accessibility**. I believe in tech that empowers, explains, and includes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech & Research
+- **Languages:** Python, C++, C, MATLAB, Java, Kotlin, XML, SQL, Bash
+- **Frameworks & Tools:** TensorFlow, PyTorch, LangChain, FastAPI, Android Studio, Raspberry Pi
+- **Domains:** Machine Learning, Deep Learning, Computer Vision, Explainable AI, IoT
+
+---
+
+## ✨ Interests
+- 🩺 AI for Health
+- 🎓 EdTech & Accessibility
+- 🧠 Human-Centered Machine Learning
+- 🌍 Social Impact through Technology
+
+---
+
+## 📫 Let’s Connect
+- 🔗 GitHub: [shrutic794](https://github.com/shrutic794)
+- 🔗 LinkedIn: [shruti-chandrasekar](https://www.linkedin.com/in/shruti-chandrasekar-2399022a2/)
+
+---
+
+*Learning. Creating. Leading with purpose.* ✨
